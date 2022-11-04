@@ -11,4 +11,3 @@ class Garden
     end
   end
 end
-Footer
